@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!--世界地图模板<element tagID="片区ID" index="片区索引值" name="片区的名称" plotID="片区的剧情ID" x="片区的坐标X" y="片区的坐标Y"/>-->
+	<world>
+		<element tagID="1001" index="" name="荆州" plotID="" x="437" y="93" />
+		<element tagID="1002" index="" name="南阳" plotID="" x="524" y="106"/>
+		<element tagID="1003" index="" name="洛阳" plotID="" x="293" y="435"/>
+		<element tagID="1004" index="" name="开封" plotID="" x="385" y="224"/>
+		<element tagID="1005" index="" name="幽州" plotID="" x="103" y="69" />
+		<element tagID="1006" index="" name="冀州" plotID="" x="620" y="136"/>
+		<element tagID="1007" index="" name="零陵" plotID="" x="437" y="199"/>
+		<element tagID="1008" index="" name="长沙" plotID="" x="662" y="169"/>
+		<element tagID="1009" index="" name="长安" plotID="" x="549" y="152"/>
+		<element tagID="1010" index="" name="西凉" plotID="" x="564" y="225"/>
+		<element tagID="1011" index="" name="西凉" plotID="" x="121" y="231"/>
+		<element tagID="1012" index="" name="豫州" plotID="" x="216" y="103"/>
+		<element tagID="1013" index="" name="陈留" plotID="" x="510" y="32" />
+		<element tagID="1014" index="" name="河内" plotID="" x="528" y="197"/>
+	</world>
+	<!--关卡点模板<element tagID="关卡点ID" index="关卡点索引值" name="关卡的名称" plotID="关卡剧情ID" x="关卡的坐标X" y="关卡的坐标Y"/>-->
+	<element tagID="" index="" name="" plotID="" x="" y=""/>
+</data>

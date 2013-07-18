@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Created with StarlingResourceExport version 0.0.0.1 -->
+<!-- author hanxianming -->
+<TextureAtlas imagePath="WorldSpriteAtlas.png">
+  <SubTexture name="1001" x="0" y="0" width="116" height="111"/>
+  <SubTexture name="1002" x="116" y="0" width="134" height="98"/>
+  <SubTexture name="1003" x="250" y="0" width="393" height="165"/>
+  <SubTexture name="1004" x="0" y="111" width="245" height="264"/>
+  <SubTexture name="1005" x="643" y="0" width="255" height="179"/>
+  <SubTexture name="1006" x="245" y="165" width="168" height="48"/>
+  <SubTexture name="1007" x="898" y="0" width="122" height="52"/>
+  <SubTexture name="1008" x="413" y="165" width="143" height="124"/>
+  <SubTexture name="1009" x="245" y="213" width="152" height="74"/>
+  <SubTexture name="1010" x="556" y="179" width="274" height="306"/>
+  <SubTexture name="1011" x="0" y="485" width="318" height="345"/>
+  <SubTexture name="1012" x="0" y="830" width="251" height="168"/>
+  <SubTexture name="1013" x="251" y="830" width="398" height="133"/>
+  <SubTexture name="1014" x="245" y="287" width="157" height="99"/>
+</TextureAtlas>
